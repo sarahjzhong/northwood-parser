@@ -1,0 +1,5 @@
+/target/
+/parser
+/.idea/
+.DS_Store
+/fixtures/large/
